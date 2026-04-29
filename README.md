@@ -7,7 +7,7 @@ The purpose of this project is to study how keyboard event listeners operate at 
 
 This tool was developed strictly for educational and defensive security research in a controlled lab environment.
 
-Features
+**Features**
 
 Real-time keyboard event capture
 
